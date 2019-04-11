@@ -14,4 +14,4 @@ Puis taper : <br>
 ```bash
 ionic serve
 ```
-
+L'adresse URL de l'API peut être modifiée dans src/services/service.api.ts
