@@ -7,7 +7,7 @@ Developpé sous Ionic version 3
 Pour tester, il faut installer ionic puis aller dans le répertoire su projet avant de lancer :
 
 ```bash
-nmp install
+npm install
 ```
 Puis taper : <br>
 
